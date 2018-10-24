@@ -26,7 +26,7 @@ public class PickAndNumbers {
     return numbers;
   }
 
-  public void setNumbers(List<PickNumber> number) {
-    this.numbers = number;
+  public void setNumbers(List<PickNumber> numbers) {
+    this.numbers = numbers;
   }
 }
